@@ -1,5 +1,6 @@
 # 👋 Hi, my name is Denis Bushuev
 
+<!--
 ## I'm a beginner *Front-end developer*
 
 ### Languages and Technologies
@@ -13,7 +14,7 @@
 ### 📫 Mail me: Jestric@yandex.ru
 ### 💬 Telegram: @Jestric
 ### [My portfolio](https://github.com/Jestric-sys/portfolio)
-
+-->
 <!--
 **Jestric-sys/Jestric-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
